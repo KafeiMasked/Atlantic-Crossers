@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: 81d3484b3728268468b916f774b3f0e2
+timeCreated: 1535103947
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SlimeTypes_0
+    21300002: SlimeTypes_1
+    21300004: SlimeTypes_2
+    21300006: SlimeTypes_3
+    21300008: SlimeTypes_4
+    21300010: SlimeTypes_5
+    21300012: SlimeTypes_6
+    21300014: SlimeTypes_7
+    21300016: SlimeTypes_8
+    21300018: SlimeTypes_9
+    21300020: SlimeTypes_10
+    21300022: SlimeTypes_11
+    21300024: SlimeTypes_12
+    21300026: SlimeTypes_13
+    21300028: SlimeTypes_14
+    21300030: SlimeTypes_15
+    21300032: SlimeTypes_16
+    21300034: SlimeTypes_17
+    21300036: SlimeTypes_18
+    21300038: SlimeTypes_19
+    21300040: SlimeTypes_20
+    21300042: SlimeTypes_21
+    21300044: SlimeTypes_22
+    21300046: SlimeTypes_23
+    21300048: SlimeTypes_24
+    21300050: SlimeTypes_25
+    21300052: SlimeTypes_26
+    21300054: SlimeTypes_27
+    21300056: SlimeTypes_28
+    21300058: SlimeTypes_29
+    21300060: SlimeTypes_30
+    21300062: SlimeTypes_31
+    21300064: SlimeTypes_32
+    21300066: SlimeTypes_33
+    21300068: SlimeTypes_34
+    21300070: SlimeTypes_35
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlimeTypes_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2674
+        width: 195
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2667
+        width: 227
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_2
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2651
+        width: 195
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_3
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2658
+        width: 228
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_4
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 2626
+        width: 196
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_5
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 2623
+        width: 229
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_6
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 2614
+        width: 195
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_7
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 2607
+        width: 227
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2415
+        width: 195
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2399
+        width: 196
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_10
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2399
+        width: 196
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_11
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2402
+        width: 229
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_12
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2383
+        width: 197
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_13
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 2374
+        width: 228
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_14
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2355
+        width: 196
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_15
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 2344
+        width: 229
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_16
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 2326
+        width: 197
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2126
+        width: 227
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2131
+        width: 196
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_19
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2122
+        width: 195
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1762
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1762
+        width: 227
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_22
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1759
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_23
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1747
+        width: 227
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_24
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1715
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_25
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1703
+        width: 227
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_26
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 1675
+        width: 196
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_27
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1674
+        width: 228
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1486
+        width: 164
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1479
+        width: 195
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_30
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1458
+        width: 164
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_31
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1458
+        width: 196
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_32
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1470
+        width: 164
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_33
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1479
+        width: 195
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_34
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1447
+        width: 162
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeTypes_35
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1424
+        width: 197
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

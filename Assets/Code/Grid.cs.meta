@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f823f5d4038b7b54098764a1f3b0e9ff
+timeCreated: 1538277283
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 1036875786705878, guid: ed986762b0c43b042b52c037f2aaa7fc, type: 2}
+  - walls: {fileID: 1764001670907538, guid: d51039e0855bcd0448567badf18dfe78, type: 2}
+  - enemy_I: {fileID: 1795860434455546, guid: 102d467add2095d46adcfa1bdf41d7bf, type: 2}
+  - slime_2: {fileID: 1756096172056930, guid: 8c5a0be8ae084dc4d8c3789a9bd5a8e0, type: 2}
+  - ice_slime: {fileID: 1221457560306254, guid: fd950e94ae590c047b596be80144ee58,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

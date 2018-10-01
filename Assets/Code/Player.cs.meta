@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5fd052ad553fc03459995944b9437fee
+timeCreated: 1535351812
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sword: {fileID: 1331532916071236, guid: 562b5986920e59f4eaec6c152ce74d15, type: 2}
+  - hearts: {fileID: 1082897109714260, guid: 8d09aee516cd70b469f70879077de3f1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
